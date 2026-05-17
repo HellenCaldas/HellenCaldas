@@ -1,4 +1,4 @@
-## Hi I'm Hellen Caldas 👋
+## Olá me chamo Hellen Caldas 👋
 
 Sou Desenvolvedora Web Full Stack Júnior e Designer Gráfica / Web Designer em constante evolução. 
 Sou extremamente dedicada, focada em criar interfaces incríveis e códigos limpos, unindo o melhor dos dois mundos: a estética e a funcionalidade.
