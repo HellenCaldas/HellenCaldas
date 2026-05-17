@@ -9,10 +9,10 @@ Design & Web Design:
  .Figma, Photoshop, Affinity
  .UI/UX Design, Identidade Visual
 
-Desenvolvimento Front-End: em treinamento
+Desenvolvimento Front-End (em treinamento): 
  .HTML5, CSS3, JavaScript
 
-Desenvolvimento Back-End: em treinamento
+Desenvolvimento Back-End (em treinamento): 
  .Node.js, Express, Bancos de dados (SQL/NoSQL)
 
 🚀 No que estou trabalhando atualmente?
